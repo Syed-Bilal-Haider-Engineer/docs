@@ -54,3 +54,37 @@ This repository is organized as a set of architecture and software engineering n
   - [`rad.md`](./development-models/rad.md)
   - [`agile.md`](./development-models/agile.md)
   - [`big-bang.md`](./development-models/big-bang.md)
+
+## How to Contribute
+
+Contributions are welcome and appreciated.
+
+### 1. Fork and Clone
+
+Fork this repository, then clone your fork locally.
+
+### 2. Create a Branch
+
+Create a short, descriptive branch name for your change.
+
+### 3. Make Your Changes
+
+- Keep content clear, concise, and technically accurate.
+- Follow the existing folder and file naming style.
+- Prefer small, focused pull requests.
+
+### 4. Verify Links and Formatting
+
+Before opening a pull request, make sure:
+
+- Internal links work.
+- Markdown formatting is clean and readable.
+- New files are placed in the correct section.
+
+### 5. Open a Pull Request
+
+In your pull request description:
+
+- Explain what you changed.
+- Explain why the change is useful.
+- Reference related issues if applicable.
