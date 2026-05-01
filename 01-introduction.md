@@ -2,26 +2,35 @@
 
 ## What is Software Architecture?
 
-Software architecture defines the **high-level structure** of a system, including:
+Software architecture is the **fundamental structure of a software system**, including:
 
-- Components
-- Relationships
-- Communication between parts
-- Design decisions
+- Components of the system
+- Relationships between components
+- Communication mechanisms
+- Design decisions made at a high level
 
-It acts as a **blueprint** for building scalable and maintainable systems.
-
----
-
-## Goals of Software Architecture
-
-- Improve maintainability
-- Enable scalability
-- Support performance and reliability
-- Allow flexibility and evolution
+It acts as a **blueprint** for building scalable, maintainable, and reliable software systems.
 
 ---
 
-## What is an Architecture Pattern?
+## Why it is important?
 
-An **architecture pattern** is a reusable, high-level solution to common design problems in software systems.
+Without proper architecture, software systems become:
+
+- Hard to maintain
+- Difficult to scale
+- Tightly coupled
+- Error-prone
+- Expensive to change
+
+---
+
+## Key Goals of Software Architecture
+
+A good architecture ensures:
+
+- Maintainability → Easy to modify and extend
+- Scalability → Can handle growth in users and data
+- Flexibility → Easy to adapt to changes
+- Reliability → Stable under load
+- Reusability → Components can be reused
